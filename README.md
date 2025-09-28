@@ -1,4 +1,4 @@
-Hi !👋 My name is Mayur R. Thorat
+Hi !👋 I am Mayur
 ========================================================================================================================================
 
 Full-Stack & Game Developer building Reliable Web and Game Systems
